@@ -34,7 +34,9 @@ export default {
     ],
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
-    build: {},
+    build: {
+        publicPath: '/nuxt-login-page/'
+    },
     target: 'static',
     router: {
         base: '/nuxt-login-page/'
