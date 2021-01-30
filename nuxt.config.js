@@ -37,6 +37,6 @@ export default {
     build: {},
     target: 'static',
     router: {
-        base: 'https://github.com/PaulOdon/nuxt-login-page/tree/master'
+        base: 'https://github.com/PaulOdon/nuxt-login-page'
     }
 }
