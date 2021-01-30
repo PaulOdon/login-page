@@ -1,17 +1,21 @@
 {
-  "name": "login-page",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "core-js": "^3.8.2",
-    "nuxt": "^2.14.12",
-    "nuxt-buefy": "^0.4.4"
-  },
-  "devDependencies": {}
+    "name": "login-page",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate",
+        "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    },
+    "dependencies": {
+        "core-js": "^3.8.2",
+        "nuxt": "^2.14.12",
+        "nuxt-buefy": "^0.4.4",
+        "xstate": "^4.16.0"
+    },
+    "devDependencies": {
+        "push-dir": "^0.4.1"
+    }
 }

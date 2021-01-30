@@ -14,7 +14,7 @@
             </b-field>
 
             <div class="has-text-centered">
-              <b-button type="is-primary">Enoyer</b-button>
+              <b-button type="is-primary" icon-left="check">Enoyer</b-button>
               <br>
               <p><a href="/"  class="is-size-7">Connexion?</a></p>
             </div>
