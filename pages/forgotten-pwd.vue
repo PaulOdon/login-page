@@ -16,7 +16,7 @@
             <div class="has-text-centered">
               <b-button type="is-primary" icon-left="check">Enoyer</b-button>
               <br>
-              <p><a href="/"  class="is-size-7">Connexion?</a></p>
+              <p><a href="/nuxt-login-page"  class="is-size-7">Connexion?</a></p>
             </div>
           </div>
         </div>

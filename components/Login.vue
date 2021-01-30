@@ -18,7 +18,7 @@
             <div class="has-text-centered">
               <br>
               <b-button type="is-primary" icon-left="check">Valider</b-button>
-              <p><a href="/forgotten-pwd"  class="is-size-7">Mot de passe oublié?</a></p>
+              <p><a href="/nuxt-login-page/forgotten-pwd"  class="is-size-7">Mot de passe oublié?</a></p>
             </div>
           </div>
         </div>
