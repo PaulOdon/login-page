@@ -37,6 +37,6 @@ export default {
     build: {},
     target: 'static',
     router: {
-        base: 'nuxt-login-page'
+        base: '/nuxt-login-page/'
     }
 }
